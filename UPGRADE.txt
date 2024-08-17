@@ -1,0 +1,649 @@
+-------------- How To Update to KING Media 9 ? ------------
+
+1. Before upgrading, it is recommended to make a backup of your website.
+
+2. Download latest version of KingMEDIA from Codecanyon and Unzip The files, 
+
+3. Turn on maintenance mode in your page admin > general.
+
+4. Replace all the modified files on your web server with the new ones,
+
+5. Then go to : http://YOURPAGEURL/install and click "Repair Database" Button.
+
+6. Turn off mainenance mode . You ve now successfully upgraded - congratulations!
+
+----------------------v8.2 Modified files----------------------------
+
+...\king\king-include\king-pages\edit.php
+...\king\king-include\king-pages\admin\admin-categories.php
+...\king\king-include\king-pages\admin\admin-default.php
+...\king\king-include\king-app\captcha.php
+...\king\king-include\king-db\admin.php
+...\king\king-include\king-db\selects.php
+...\king\king-content\js\angular\appi.js
+...\king\king-include\lang\king-lang-options.php
+
+----------------------v8.1 Modified files----------------------------
+
+...\king\king-theme\default\king-styles.css
+...\king\king-include\king-pages\admin\admin-default.php
+...\king\king-include\king-pages\membership.php
+...\king\king-include\king-app-video.php
+...\king\king-include\king-db\selects.php
+...\king\king-include\lang\king-lang-options.php
+
+-------------- How To Update to KING Media 8 ? ------------
+
+1. Before upgrading, it is recommended to make a backup of your website.
+
+2. Download latest version of KingMEDIA from Codecanyon and Unzip The files, 
+
+3. Turn on maintenance mode in your page admin > general.
+
+4. Replace all the modified files on your web server with the new ones,
+
+5. Then go to : http://YOURPAGEURL/install and click "Repair Database" Button.
+
+6. Turn off mainenance mode . You ve now successfully upgraded - congratulations!
+
+----------------------v7.3 Modified files----------------------------
+
+...\king\king-theme\default\king-styles.css
+...\king\king-theme\default\king-theme.php
+...\king\king-theme\default\night.css
+
+...\king\king-include\king-app\format.php
+...\king\king-include\king-app\users.php
+...\king\king-include\king-base.php
+...\king\king-include\king-app-video.php
+...\king\king-include\king-theme-base.php
+...\king\king-include\king-pages\video.php
+
+----------------------v7.2 Modified files----------------------------
+
+...\king\king-theme\default\king-styles.css
+...\king\king-theme\default\king-theme.php
+
+...\king\king-include\king-app\format.php
+...\king\king-include\king-pages\embed.php
+...\king\king-include\king-base.php
+
+----------------------v7.1 Modified files----------------------------
+
+...\king\king-theme\default\king-styles.css
+...\king\king-theme\default\king-theme.php
+
+...modified all files from king-include/ folder and updated plugins too
+
+----------------------v7.0.1 Modified files----------------------------
+
+...\king\king-theme\default\king-styles.css
+...\king\king-include\king-pages\list.php
+...\king\king-include\king-pages\edit.php
+...\king\king-include\king-base.php
+...\king\king-include\king-pages\user.php
+...\king\king-include\king-page.php
+...\king\king-include\king-pages\favorites.php
+...\king\king-include\king-pages\account.php
+...\king\king-content\king-page.js
+...\king\king-content\king-question.js
+
+
+-------------- How To Update to KING Media 7 ? ------------
+
+1. Before upgrading, it is recommended to make a backup of your website.
+
+2. Download latest version of KingMEDIA from Codecanyon and Unzip The files, 
+
+3. Turn on maintenance mode in your page admin > general.
+
+4. Replace all the modified files on your web server with the new ones,
+
+5. Then go to : http://YOURPAGEURL/install and click "Repair Database" Button.
+
+6. Turn off mainenance mode . You ve now successfully upgraded - congratulations!
+
+
+-------------- KING Media 2.0 - v1 ------------
+
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+
+...\king-include\king-theme-base.php
+...\king-plugin\tag-cloud-widget\king-tag-cloud.php
+...\king-include\king-addons\king-widget-related-qa.php
+
+
+-------------- How To Update to KING Media 2.0 ? ------------
+
+1. Before upgrading, it is recommended to make a backup of your website.
+
+2. Download latest version of KingMEDIA from Codecanyon and Unzip The files, 
+
+3. Turn on maintenance mode in your page admin > general.
+
+4. Replace all the modified files on your web server with the new ones,
+
+5. Then go to : http://YOURPAGEURL/install and click "Repair Database" Button.
+
+6. Turn off mainenance mode . You ve now successfully upgraded - congratulations!
+
+----------------------v5.2----------------------------
+Modified files
+...\king-theme\default\king-theme.php
+
+...\king-theme\List\king-theme.php
+
+...\king-include\king-pages\admin\admin-king.php
+
+----------------------v5.1----------------------------
+Modified files
+...\king-include\king-app\format.php
+
+-------------- How To Update V4 to V5 ? ------------
+
+1. Before upgrading, it is recommended to make a backup of your website.
+2. Download latest version of KingMEDIA from Codecanyon and Unzip The files, 
+3. Turn on maintenance mode in your page admin > general.
+4. Replace all the modified files on your web server with the new ones,
+5. Then go to : http://YOURPAGEURL/install and click "Repair Database" Button.
+6. Turn off mainenance mode . You ve now successfully upgraded - congratulations!
+
+----------------------v4----------------------------
+Modified files
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+...\king-theme\default\img\follow.png  (NEW!)
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+...\king-theme\List\img\follow.png  (NEW!)
+
+...\king-include\king-pages\user-profile.php
+...\king-include\king-ajax\favorite.php
+...\king-include\king-pages\user-follower.php
+...\king-include\king-pages\user-following.php
+...\king-include\king-app\format.php
+...\king-include\king-pages\user.php
+...\king-include\king-db\selects.php
+...\king-include\king-pages\updates.php
+...\king-include\king-base.php
+...\king-include\king-app\options.php
+...\king-include\newsupload.php
+...\king-include\processupload.php
+...\king-include\multipledelete.php
+...\king-include\multipleupload.php
+...\king-include\king-pages\video.php
+...\king-include\king-pages\admin\admin-default.php
+...\king-include\king-page.php
+
+...\king-lang\custom\king-lang-main.php
+...\king-lang\custom\king-lang-options.php
+
+
+-------------- How To Update V3.2 to V3.5 ? ------------
+
+1. Before upgrading, it is recommended to make a backup of your website.
+2. Download latest version of KingMEDIA from Codecanyon and Unzip The files, 
+3. Turn on maintenance mode in your page admin > general.
+4. Replace all the modified files on your web server with the new ones,
+5. Then go to : http://YOURPAGEURL/install and click "Repair Database" Button.
+6. Turn off mainenance mode . You ve now successfully upgraded - congratulations!
+
+----------------------v3.5----------------------------
+Modified files
+...\king-include\king-base.php
+...\king-include\king-page.php
+...\king-include\processupload.php
+...\king-include\newsupload.php (NEW!)
+
+
+...\king-include\king-app\post-create.php
+...\king-include\king-app\post-create2.php
+...\king-include\king-app\posts.php
+...\king-include\king-app\options.php
+
+...\king-include\king-pages\ask.php
+...\king-include\king-pages\video.php
+...\king-include\king-pages\news.php (NEW!)
+...\king-include\king-pages\question-view.php
+...\king-include\king-pages\admin\admin-default.php
+...\king-include\king-pages\question-post.php
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+...\king-theme\default\tinymce\ (NEW!)
+...\king-theme\default\imgs\news.png (NEW!)
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+...\king-theme\List\tinymce\ (NEW!)
+...\king-theme\default\imgs\news.png (NEW!)
+
+...\king-lang\custom\king-lang-main.php
+...\king-lang\custom\king-lang-options.php
+
+----------------------v3.2----------------------------
+Modified files
+
+...king-include\king-db\install.php
+...king-include\king-app\admin.php
+...king-include\king-app\options.php
+...king-include\king-pages\admin\admin-default.php
+...king-include\king-app\post-create.php
+...king-include\king-db\post-create.php
+...king-include\king-app\post-create2.php
+...king-include\king-db\selects.php
+...king-include\king-pages\type.php (NEW!)
+...king-include\king-app\q-list.php
+...king-include\king-page.php
+...king-include\videoupload.php
+...king-include\king-pages\admin\admin-pages.php
+...king-include\king-base.php
+
+...king-lang\custom\king-lang-options.php
+...king-lang\custom\king-lang-main.php
+
+...king-theme\List\king-theme.php
+...king-theme\List\king-style.css
+...king-theme\default\king-theme.php
+...king-theme\default\king-style.css
+
+----------------------v3.1----------------------------
+Modified files
+...king-include\king-app-post-create2.php
+...king-include\king-app\format.php
+...king-vendor\PHPMailer\class.phpmailer.php
+...king-vendor\PHPMailer\class.smtp.php
+...king-vendor\PHPMailer\PHPMailerAutoload.php
+
+----------------------v3------------------------------
+Modified files
+
+...king-include\ (ALL FILES)
+
+...king-content\king-admin.js
+...king-content\king-ask.js
+...king-content\king-page.js
+...king-content\king-question.js
+...king-content\king-user.js
+
+...king-lang\custom\king-lang-options.php
+...king-lang\custom\king-lang-main.php
+...king-lang\custom\king-lang-admin.php
+...king-lang\custom\king-lang-misc.php
+
+-------------- How To Update V2.4 to V3 ? ------------
+
+1. Before upgrading, it is recommended to make a backup of your website.
+2. Download latest version of KingMEDIA from Codecanyon and Unzip The files, 
+3. Turn on maintenance mode in your page admin > general.
+4. Replace all the KingMEDIA king-include/ files and modified other files on your web server with the new ones,
+5. Go to the admin panel. If appropriate, you will see the "Your KingMEDIA database needs to be upgraded for this version." message follow the instructions
+6. Turn off mainenance mode . You ve now successfully upgraded - congratulations!
+
+------------
+
+----------------------v2.4------------------------------
+Modified files
+...king-theme\default\king-theme.php
+...king-theme\default\king-styles.php
+
+...king-theme\List\king-theme.php
+...king-theme\List\king-styles.php
+
+...king-include\king-app-post-create2.php
+...king-include\king-base.php
+
+----------------------v2.3------------------------------
+Modified files
+...king-theme\default\king-theme.php
+...king-theme\default\king-styles.php
+
+...king-theme\List\king-theme.php
+...king-theme\List\king-styles.php
+
+...king-include\king-page-categories.php
+...king-include\king-app-format.php
+...king-include\king-page-user.php
+...king-include\king-app-post-create2.php
+...king-include\king-base.php
+
+----------------------v2.2------------------------------
+Modified files
+
+...king-theme\default\king-theme.php
+...king-theme\default\king-styles.php
+
+...king-theme\List\king-theme.php
+...king-theme\List\king-styles.php
+...king-theme\List\img\gif.png (NEW)
+...king-theme\List\img\start.png
+
+...king-include\king-page-register.php
+...king-include\king-page-admin-default.php
+...king-include\king-app-options.php
+...king-include\king-base.php
+
+
+...king-lang\custom\king-lang-options.php
+...king-lang\custom\king-lang-users.php
+
+
+----------------------v2.1------------------------------
+Modified files
+...king-theme\default\king-theme.php
+...king-theme\default\king-styles.php
+
+...king-theme\List\king-theme.php
+...king-theme\List\king-styles.php
+
+...king-include\king-app-post-create2.php
+...king-include\king-app-admin.php
+
+...king-lang\custom\king-lang-admin.php
+...king-lang\custom\king-lang-options.php
+
+----------------------v2------------------------------
+Modified files
+...king-include\king-app-post-create2.php
+...king-include\king-page-video.php
+...king-include\processupload.php
+...king-include\videoupload.php (New)
+...king-include\videos\ (New)
+...king-include\videodelete.php (New)
+...king-include\king-page-ask.php
+...king-include\king-page-admin-default.php
+
+...king-lang\custom\king-lang-options.php
+
+...king-theme\default\king-theme.php
+...king-theme\default\king-styles.php
+...king-theme\default\videoplayer\ (New)
+...king-theme\default\jquery.uploadfile.js 
+...king-theme\default\img\vidurl.png (New)
+
+...king-theme\list\img\vidurl.png (New)
+...king-theme\List\quickstart.js
+...king-theme\List\king-theme.php
+...king-theme\List\king-styles.php
+...buzz2\king-theme\List\videoplayer/ (New)
+...king-theme\List\jquery.uploadfile.js 
+
+----------------------v1.9.9.2------------------------------
+Modified files
+
+...king-theme\default\king-theme.php
+...king-theme\default\king-style.css 
+...king-themelist\king-theme.php
+...king-themelist\king-style.css
+
+...king-include\king-install.php
+...king-include\king-db.php
+...king-include\king-app-post-create2.php
+...king-include\king-base.php
+
+----------------------v1.9.9------------------------------
+Modified files
+
+...king-include\king-page-admin-default.php
+...king-include\king-page-ask.php
+...king-include\king-base.php
+...king-include\multipleupload.php (New)
+...king-include\multipledelete.php (New)
+...king-lang\custom\king-lang-options.php
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\jquery.uploadfile.js (New)
+...\king-theme\default\img\multiple.png (New)
+...\king-theme\default\img\delete.png (New)
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\jquery.magnific-popup.min.js (New)
+...\king-theme\List\jquery.uploadfile.js (New)
+...\king-theme\List\img\multiple.png (New)
+...\king-theme\List\img\delete.png (New)
+...\king-theme\List\img\qview.png (New)
+...\king-theme\List\img\close.png (New)
+
+----------------------v1.9.8------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php (Added Mail.ru, fixed Vk)
+...\king-theme\List\king-theme.php (Added Mail.ru, fixed Vk)
+
+...\king-theme\default\king-styles.css VK login added
+...\king-theme\List\king-styles.css  VK login added
+
+...\king-theme\default\img/vk-32.png
+...\king-theme\List\img/vk-32.png
+
+...\king-include\king-app-post-create2.php
+...\king-include\king-page-video.php
+...\king-include\king-page-ask.php
+...\king-include\king-theme-base.php
+...\king-include\king-page.php
+...\king-lang\custom\king-lang-options.php
+...\king-include\king-page-admin-default.php
+...\king-include\king-base.php
+
+----------------------v1.9.7------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css (you can see the modified css codes after this "/*---[ v1.9.7 modified css ]---*/" in king-style.css )
+...\king-theme\default\masonry.pkgd.min.js
+...\king-theme\default\jquery.infinitescroll.min.js
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css (you can see the modified css codes after this "/*---[ v1.9.7 modified css ]---*/" in king-style.css )
+...\king-theme\List\sticky.js
+
+...\king-include\king-page-admin-default.php
+...\king-include\king-base.php
+
+
+----------------------v1.9.6------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-style.css
+...\king-theme\default\jquery.infinitescroll.min.js
+...\king-theme\default\imageupload.js
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-style.css
+...\king-theme\List\imageupload.js
+...\king-theme\List\sticky.js (new!)
+
+...\king-include\king-page.php
+...\king-include\processupload.php
+...\king-include\king-base.php
+...\king-include\king-page-ask.php
+
+...\king-include\watermark\watermark.png (NEW! You can update for your own watermark image.)
+
+
+----------------------v1.9.5------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+
+...\king\king-include\king-theme-base.php
+...\king\king-include\king-app-format.php
+...\king\king-lang\custom\king-lang-main.php
+...\king\king-include\king-page-video.php
+...\king\king-include\king-app-post-create2.php
+
+----------------------v1.9.4------------------------------
+IT'S SECURITY UPDATE --only this file Modified--
+
+...king-include\processupload.php
+
+----------------------v1.9.3------------------------------
+Modified files
+
+...\king-theme\default\king-is.js
+
+...king-lang\custom\king-lang-admin.php
+
+...king-include\king-page-admin-default.php
+...king-include\king-app-format.php
+...king-include\king-base.php
+...king-include\king-app-admin.php
+...king-include\king-page-question-post.php
+
+
+----------------------v1.9.2------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+
+...king-lang\custom\king-lang-options.php
+...king-include\king-page-admin-default.php
+...htaccess
+
+
+----------------------v1.9.1------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+...\king-theme\default\imageupload.js
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+...\king-theme\List\imageupload.js
+
+...\king-include\king-app-format.php
+...\king-include\king-util-string.php
+...\king-include\king-page-admin-default.php
+...\king-include\king-app-admin.php
+...\king-lang\custom\king-lang-options.php
+...\king-include\processupload.php
+
+----------------------v1.9------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+...\king-theme\default\king-is.js
+...\king-theme\default\imageupload.js
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+...\king-theme\List\king-is.js
+...\king-theme\List\imageupload.js
+
+...\king-include\king-page-admin-default.php
+...\king-include\king-app-post-create.php
+...\king-include\king-page-ask.php
+...\king-include\processupload.php
+
+----------------------v1.8------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+...\king-theme\default\jquery.infinitescroll.min.js
+...\king-theme\default\king-is.js
+...\king-theme\default\masonry.pkgd.min.js
+...\king-theme\default\imagesloaded.pkgd.min.js
+ADDED! ...\king-theme\default\imageupload.js (important)
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+...\king-theme\List\jquery.infinitescroll.min.js
+...\king-theme\List\king-is.js
+...\king-theme\List\masonry.pkgd.min.js
+...\king-theme\List\imagesloaded.pkgd.min.js
+ADDED! ...\king-theme\List\imageupload.js  (important)
+
+
+----------------------v1.7------------------------------
+...king-extra plugin removed because of some bugs if you need this plugin you can download from support forum
+
+----------------------v1.6------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+...\king-theme\default\img\404.png
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+...\king-theme\List\img\404.png
+
+...\king-include\king-page-admin-default.php
+
+(ADDED NEW PLUGIN!)...\king-plugin\king-extra\
+
+----------------------v1.5------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+
+...\king-theme\List\king-theme.php
+...\king-theme\List\king-styles.css
+
+...\king-lang\custom\king-lang-admin.php
+
+(Added create page and create link on Admin> MENU)
+
+----------------------v1.4------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+
++ Added NEW! List Theme
+
+...\king-theme\List
+
+
++ Added NEW! King Theme Switcher PLUGIN upload .../king-plugin/king-theme-switcher folder
+if you like to enable this plugin go to admin/plugins/ and enable King Theme Switcher
+
+----------------------v1.3------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+...\king-theme\default\king-is.js
+
+...king-include\king-page-admin-default.php
+...king-include\king-app-options.php
+
+...king-plugin\tag-cloud-widget\king-tag-cloud.php
+...king-plugin\xml-sitemap\king-xml-sitemap.php
+
+...king-lang/custom/(ALLFILES)
+
+(ADDED NEW! KING-CAPTCHA PLUGIN upload .../king-plugin/king-captcha folder )
+
+----------------------v1.2------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+
+...king-include\king-app-options.php
+
+----------------------v1.1------------------------------
+Modified files
+
+...\king-theme\default\king-theme.php
+...\king-theme\default\king-styles.css
+
+...\king-plugin\q2a-open-login-master\king-open-page-logins.php
